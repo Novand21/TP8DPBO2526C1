@@ -35,7 +35,8 @@ Saya Muhamad Raditya Novandrian dengan NIM 2508283 mengerjakan TP-8 dalam mata k
 ### Class `DepartmentController`, `LecturerController`, & `CourseController` (Controller)
 - **Deskripsi:** Menjadi penghubung antara request pengguna, Model, dan View.
 - **Atribut:**
-  - Properti model terkait (seperti `$lecturer`, `$department`, `$course`) untuk mengakses database. * **Methods Utama:** 
+  - Properti model terkait (seperti `$lecturer`, `$department`, `$course`) untuk mengakses database.
+- **Methods Utama:** 
   - `index()`: Membuka koneksi, mengambil data dari Model ke dalam array, menutup koneksi, lalu mengirimkannya ke `View->render()`. 
   - `add()` & `edit()`: Menampilkan form melalui View saat diakses via `GET`, atau menyimpan perubahan ke Model dan melakukan *redirect* saat form dikirim via `POST`. 
   - `delete()`: Menghapus data berdasarkan `$_GET['id']` lalu mengarahkan kembali ke halaman utama modul.
@@ -47,4 +48,8 @@ Saya Muhamad Raditya Novandrian dengan NIM 2508283 mengerjakan TP-8 dalam mata k
 - **Render Tampilan (View):** Untuk halaman tampilan atau form, Controller membuat objek View dan memanggil `render()`, `renderAdd()`, atau `renderEdit()` untuk mencetak halaman HTML ke browser.
 
 ## Dokumentasi (Video)
-https://github.com/user-attachments/assets/2607d1ac-4ad9-429b-8dc8-c4234cb58e4
+
+
+https://github.com/user-attachments/assets/8d5c746a-1d87-4498-8a8a-3579afa7d077
+
+
