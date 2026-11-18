@@ -1,3 +1,4 @@
+
 ## Janji
 Saya Muhamad Raditya Novandrian dengan NIM 2508283 mengerjakan TP-8 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 
@@ -46,4 +47,4 @@ Saya Muhamad Raditya Novandrian dengan NIM 2508283 mengerjakan TP-8 dalam mata k
 - **Render Tampilan (View):** Untuk halaman tampilan atau form, Controller membuat objek View dan memanggil `render()`, `renderAdd()`, atau `renderEdit()` untuk mencetak halaman HTML ke browser.
 
 ## Dokumentasi (Video)
-
+https://github.com/user-attachments/assets/2607d1ac-4ad9-429b-8dc8-c4234cb58e4
